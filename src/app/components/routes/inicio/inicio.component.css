@@ -1,0 +1,35 @@
+div{
+    background-color: #121829;
+    padding: 10px; 
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Titulo{
+width: 70px;
+height: 70px;
+font-weight: 300px;
+font-size: 70px;
+padding: 30px;
+}
+.subtitulo{
+    height: 100px;
+   padding: 30px;
+   margin-top: -8%;
+}
+.buscador{
+    margin-top: -7%;
+    padding: 30px;
+}
+.todo{
+   justify-content: space-around;
+   display: flex;
+   
+}
+a{
+    color: #faf5f5;
+}
+a:hover{
+    background-color: rgb(0, 68, 255);
+    border: 2px solid aqua;
+}
